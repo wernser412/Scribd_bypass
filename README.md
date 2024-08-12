@@ -4,4 +4,4 @@ Script disables blur on text
 https://es.scribd.com/
 
 # Version
-2023/07/11
+11/08/2024
