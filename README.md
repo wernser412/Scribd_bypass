@@ -29,7 +29,7 @@ Navega a cualquier documento o presentación en Scribd y el script automáticame
 
 ## Contribución
 
-Si encuentras algún problema o tienes sugerencias para mejorar el script, siéntete libre de abrir un [issue](https://github.com/wernser412/scribd-bypass/issues) o enviar un [pull request](https://github.com/wernser412/scribd-bypass/pulls).
+Si encuentras algún problema o tienes sugerencias para mejorar el script, siéntete libre de abrir un [issue](https://github.com/wernser412/Scribd_bypass/issues) o enviar un [pull request](https://github.com/wernser412/Scribd_bypass/pulls).
 
 ## Licencia
 
