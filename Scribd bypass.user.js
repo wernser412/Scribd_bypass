@@ -2,7 +2,7 @@
 // @name               Scribd bypass
 // @description        Script disables blur on text
 // @author             wernser412
-// @version            11/08/2024
+// @version            02/09/2024
 // @license            MIT
 // @namespace          https://github.com/wernser412
 // @match              *://*.scribd.com/*
