@@ -14,14 +14,9 @@ Este Userscript está diseñado para mejorar la experiencia de lectura en Scribd
 
 ## Instalación
 
-1. **Instalar una extensión para Userscripts**:
-   - [Tampermonkey](https://www.tampermonkey.net/) o [Greasemonkey](https://www.greasespot.net/) son extensiones populares para usuarioscripts en navegadores web.
-
-2. **Agregar el Userscript**:
-   - Copia el código del Userscript de [aquí](https://github.com/wernser412/Scribd_bypass/raw/main/Scribd%20bypass.user.js) y pégalo en una nueva script dentro de Tampermonkey o Greasemonkey.
-
-3. **Guardar y activar el script**:
-   - Guarda el script y asegúrate de que está activado en la extensión de userscripts.
+1. Instala la extensión [Tampermonkey](https://www.tampermonkey.net/) en tu navegador.
+2. Haz clic en este enlace para instalar el script:  
+   👉 **[Descargar Script](https://github.com/wernser412/Scribd_bypass/raw/refs/heads/main/Scribd%20bypass.user.js)**
 
 ## Uso
 
