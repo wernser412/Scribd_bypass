@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name               Scribd bypass
 // @description        Script disables blur on text
-// @author             wernser412
 // @version            2024.09.02
-// @license            MIT
+// @author             wernser412
+// @downloadURL        https://github.com/wernser412/Scribd_bypass/raw/refs/heads/main/Scribd%20bypass.user.js
 // @namespace          https://github.com/wernser412
 // @match              *://*.scribd.com/*
 // @icon               https://s-f.scribdassets.com/favicon.ico
 // @require            https://code.jquery.com/jquery-3.7.1.min.js
+// @license            MIT
 // ==/UserScript==
 /* eslint-env jquery */
 $(document).ready(function(){
