@@ -1,6 +1,6 @@
 # Scribd Bypass Userscript
 
-**Última Actualización:** 08 de septiembre de 2025
+**Última Actualización:** 19 de septiembre de 2025
 
 Este Userscript está diseñado para mejorar la experiencia de lectura en Scribd al desactivar el desenfoque del texto en documentos y presentaciones. Ideal para usuarios que desean acceder al contenido de Scribd sin restricciones visuales.
 
